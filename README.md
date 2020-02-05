@@ -12,11 +12,11 @@
 
 (0) If you have not installed Django 2.2.5, you can easily [install Anaconda](https://docs.anaconda.com/anaconda/install/)  and type in `conda install django`.
 
-(1) `git clone` this repo to your local directory
+(1) `git clone` this repo to your local directory.
 
-(2) Change path to the cloned repo: `cd your_directory/VersionChecker`
+(2) Change path to the cloned repo: `cd your_directory/VersionChecker`.
 
-(3) Type in  `python manage.py runserver`
+(3) Type in  `python manage.py runserver`.
 
 (4) Copy and paste "http://127.0.0.1:8000/" to your browser.
 
