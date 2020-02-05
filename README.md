@@ -2,6 +2,8 @@
 
 ### Zhou Xing (zhouxing@uchicago.edu)
 
+##### Last update: Feb/4/2020
+
 #### 1. Environment
 
 - Python 3.7.3
